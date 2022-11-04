@@ -6,5 +6,5 @@
     "repository": "https://github.com/heroku/no-local-dev-getting-started",
     "success_url": "/",
     "addons": ["heroku-postgresql", "herokuconnect:demo"],
-    "stack": "Heroku-20"
+    "stack": "heroku-20"
 }
